@@ -20,4 +20,4 @@ MoniPay values your privacy. While using MoniPay, **no personal data is collecte
 - You can delete the app from your device at any time and manage all your data yourself.
 
 ## Contact
-If you have any questions or suggestions, please contact us at info@monipayapp.com.
+If you have any questions or suggestions, please contact us at support@canz.dev
