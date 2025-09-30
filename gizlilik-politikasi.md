@@ -20,4 +20,4 @@ MoniPay uygulaması gizliliğinize önem verir. MoniPay’i kullanırken hiçbir
 - Dilerseniz cihazınızdaki uygulamayı silebilir, tüm verilerinizi kendiniz yönetebilirsiniz.
 
 ## İletişim
-Herhangi bir sorunuz veya öneriniz olursa bize info@monipayapp.com adresinden ulaşabilirsiniz.
+Herhangi bir sorunuz veya öneriniz olursa bize support@canz.dev adresinden ulaşabilirsiniz.
