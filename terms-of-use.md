@@ -24,4 +24,4 @@ The app is provided “as is.” The developer is not responsible for any data l
 MoniPay may update these terms at any time.
 
 ## Contact
-For any questions, please contact info@monipayapp.com.
+For any questions, please contact support@canz.dev
